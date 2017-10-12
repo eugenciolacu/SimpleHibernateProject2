@@ -1,0 +1,8 @@
+# Ignore .idea files 
+# and .iml .tmp
+
+.idea
+out
+
+*.iml
+*.tmp
